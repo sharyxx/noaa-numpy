@@ -1,1 +1,2 @@
-This post focuses on the exercise analyzing NOAA weather data using Numpy and Matplotlib. This notebook follows examples given in Introduction to Data Analysis using Python on Lynda.com. 
+This post focuses on the exercise analyzing NOAA weather data using Numpy and Matplotlib. 
+This notebook follows examples given in Introduction to Data Analysis using Python on Lynda.com. 
